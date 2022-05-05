@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: darkkhaki;
+}
+.caja1{
+    padding: 10px 20px;
+    border: 1px solid rgb(12, 12, 107);
+    margin: 20px auto;
+    background-color: #f1faee;
+    box-sizing: border-box;
+    max-width: 300px;
+}
+.caja2{
+    padding: 10px 20px;
+    border: 1px solid rgb(12, 12, 107);
+    margin: 30px auto;
+    background-color: #f1faee;
+    box-sizing: border-box;
+    max-width: 300px;
+}

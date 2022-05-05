@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: pink;
+    text-align: center;
+    margin: 15px;
+}
+h2{
+    color: blueviolet;
+}
+p{
+    color: #457b9d;
+}
+/*clase de css*/
+.tarjeta{
+    border: 10px solid #560bad;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 10px 150px;
+    padding: 15px;
+}
+.titulo{
+    color: #f72585;
+
+}

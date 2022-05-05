@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+div.contenedor{
+    border: 3px dashed greenyellow;
+    margin: auto;
+    height: 100px;
+    width: 30%;
+    /*overflow: visible;*/
+    /*overflow: hidden;*/
+    /*overflow: scroll;*/
+    overflow: auto;
+}
